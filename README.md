@@ -12,10 +12,10 @@ CCCBomberv1Dot0.java, experimental version, it implements a bombing style CCC al
 We describe only how to use CCC_v1Dot0:
 Step 1: Compile it with this command:
    java CCC_v1Dot0.java
-Some classes are created.
-
+   Some classes are created.
+   
 Step 2: Run it with this command:
    javac CCC_v1Dot0 a_cnf_file
-where a_cnf_file is any CNF file in DIMACS format.
+   where a_cnf_file is any CNF file in DIMACS format.
 
 Enjoy!

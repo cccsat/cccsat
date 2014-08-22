@@ -2,8 +2,7 @@ cccsat
 ======
 This README describes those files which are created along with the article:
 Solving SAT by an Iterative Version of the Inclusion-Exclusion Principle
-
-You can find 4 files in this directory:
+You can find 5 files in this directory:
 CCC_v1Dot0.java, it is stable, all the test are done with this version.
 CCC_v1Dot1.java, it is stable, a new class, ClearClause, is added.
 CCC_BigInt_v1Dot2.java, experimental version, it is based on BigInteger.
